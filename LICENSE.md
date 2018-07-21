@@ -1,0 +1,1 @@
+You may not use this bot to help fascists.

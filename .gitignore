@@ -1,0 +1,5 @@
+praw.ini
+wcb.pem
+banned_bot/*
+past_elections/*
+log.*
